@@ -1,0 +1,39 @@
+Public IP: 102.88.114.129 (CF-Connecting-IP)
+Request: GET / HTTP
+Host: locallhost.im
+Protocol: https
+Accept-Language: en-GB,en;q=0.9
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/155.0.8059.37 Mobile/15E148 Safari/604.1
+Inspection endpoint: GET /api/request-info.json?page=%2F HTTP
+Headers:
+accept: */*
+accept-encoding: gzip, br
+accept-language: en-GB,en;q=0.9
+cache-control: no-cache
+cf-connecting-ip: 102.88.114.129
+cf-connecting-o2o: 1
+cf-ipcountry: NG
+cf-ray: a52e7ff119ae66a4-AMS
+cf-visitor: {"scheme":"https"}
+connection: Keep-Alive
+host: locallhost.im
+pragma: no-cache
+priority: u=3, i
+referer: https://locallhost.im/
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/155.0.8059.37 Mobile/15E148 Safari/604.1
+x-forwarded-for: 102.88.114.129
+x-forwarded-proto: https
+x-real-ip: 102.88.114.129
+
+Browser context:
+URL: https://locallhost.im/
+Host: locallhost.im
+Protocol: https
+Language: en-GB
+Timezone: Africa/Lagos
+Screen: 375x812
+Viewport: 375x636
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/155.0.8059.37 Mobile/15E148 Safari/604.1
