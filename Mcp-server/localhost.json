@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dealsbe.com/config.json",
+  "mcp": {
+    "playwright": {
+      "type": "webapi",
+      "command": [
+        "npx",
+        "@playwright/mcp@latest"
+      ],
+      "enabled": true
+    }
+  }
+}
